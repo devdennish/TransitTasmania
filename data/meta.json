@@ -1,0 +1,20 @@
+{
+  "generatedAt": "2026-06-20T12:17:25.661Z",
+  "feed": {
+    "publisher": "Public Transport Tasmania",
+    "url": "https://www.transport.tas.gov.au/public_transport",
+    "lang": "en",
+    "startDate": "20260603",
+    "endDate": "20260831",
+    "version": "20"
+  },
+  "counts": {
+    "agencies": 6,
+    "routes": 202,
+    "stops": 3437,
+    "trips": 10361,
+    "shapes": 545,
+    "tripStops": 10361,
+    "services": 65
+  }
+}

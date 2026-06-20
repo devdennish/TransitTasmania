@@ -1,0 +1,7 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+"CC","Calow's Coaches",https://www.calowscoaches.com.au/,Australia/Tasmania,en,0400 570 036
+"DFS","Derwent Ferries",https://derwentferries.com.au/,Australia/Tasmania,en,03 6240 1893
+"KIN","Kinetic",https://www.wearekinetic.com/,Australia/Tasmania,en,1300 360 000
+"MC","Manion's Coaches",https://www.manionscoaches.com.au/,Australia/Tasmania,en,6383 1221
+"MTS","Metro Tasmania",https://www.metrotas.com.au/,Australia/Tasmania,en,13 22 01
+"TL","Tassielink",http://www.tassielink.com.au,Australia/Tasmania,en,1300 300 520

@@ -1,0 +1,203 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+110-206,MTS,110,University to Kings Meadows via Launceston City,,3,,008000,FFFFFF
+115-206,MTS,115,Rocherlea to Launceston City,,3,,008000,FFFFFF
+116-206,MTS,116,Alanvale and Mayfield to Launceston City,,3,,008000,FFFFFF
+117-206,MTS,117,Alanvale to Launceston City,,3,,008000,FFFFFF
+120-206,MTS,120,Ravenswood to Launceston City,,3,,008000,FFFFFF
+121-206,MTS,121,Waverley to Launceston City,,3,,008000,FFFFFF
+130-206,MTS,130,St Leonards to Launceston City,,3,,008000,FFFFFF
+131-206,MTS,131,St Leonards to Launceston City,,3,,008000,FFFFFF
+140-206,MTS,140,Youngtown to Launceston City,,3,,008000,FFFFFF
+141-206,MTS,141,Punchbowl to Launceston City,,3,,008000,FFFFFF
+142-206,MTS,142,Punchbowl to Launceston City,,3,,008000,FFFFFF
+145-206,MTS,145,Youngtown to Launceston City,,3,,008000,FFFFFF
+146-206,MTS,146,Youngtown to Launceston City,,3,,008000,FFFFFF
+147-206,MTS,147,South Launceston to Launceston City,,3,,008000,FFFFFF
+150-206,MTS,150,West Riverside to Launceston City,,3,,008000,FFFFFF
+151-206,MTS,151,North Riverside to Launceston City,,3,,008000,FFFFFF
+152-206,MTS,152,West Riverside to Launceston City,,3,,008000,FFFFFF
+160-206,MTS,160,Country Club to Launceston City,,3,,008000,FFFFFF
+161-206,MTS,161,Blackstone Heights to Launceston City,,3,,008000,FFFFFF
+162-206,MTS,162,Hadspen to Launceston City,,3,,008000,FFFFFF
+165-206,MTS,165,Prospect Vale to Launceston City,,3,,008000,FFFFFF
+167-206,MTS,167,Prospect Vale to Launceston City,,3,,008000,FFFFFF
+170-204,KIN,170,West Devonport Loop,,3,,0080FF,000000
+171-204,KIN,171,West Devonport Loop,,3,,0080FF,000000
+172-204,KIN,172,Don College to Devonport,,3,,0080FF,000000
+173-204,KIN,173,Splash to Devonport,,3,,0080FF,000000
+174-204,KIN,174,Stony Rise to Devonport,,3,,0080FF,000000
+175-204,KIN,175,East Devonport to Devonport,,3,,0080FF,000000
+176-204,KIN,176,Ambleside to Devonport,,3,,0080FF,000000
+178-204,KIN,178,Latrobe to Devonport,,3,,0080FF,000000
+180-204,KIN,180,Ulverstone to Devonport,,3,,0080FF,000000
+182-204,KIN,182,Ulverstone to West Ulverstone,,3,,0080FF,000000
+183-204,KIN,183,Port Sorell to Devonport,,3,,0080FF,000000
+184-204,KIN,184,Sheffield to Devonport,,3,,0080FF,000000
+190-147,MTS,190,Ulverstone to Burnie,,3,,008000,FFFFFF
+190-208,MTS,190,Ulverstone to Burnie,,3,,008000,FFFFFF
+191-147,MTS,191,Emu Heights/Havenview to Burnie,,3,,008000,FFFFFF
+191-208,MTS,191,Emu Heights/Havenview to Burnie,,3,,008000,FFFFFF
+192-147,MTS,192,Acton/Montello to Burnie,,3,,008000,FFFFFF
+192-208,MTS,192,Acton/Montello to Burnie,,3,,008000,FFFFFF
+193-147,MTS,193,Acton/Montello to Burnie,,3,,008000,FFFFFF
+193-208,MTS,193,Acton/Montello to Burnie,,3,,008000,FFFFFF
+194-147,MTS,194,Burnie Loop - Clockwise,,3,,008000,FFFFFF
+194-208,MTS,194,Burnie Loop - Clockwise,,3,,008000,FFFFFF
+195-147,MTS,195,Burnie Loop - Anti Clockwise,,3,,008000,FFFFFF
+195-208,MTS,195,Burnie Loop - Anti Clockwise,,3,,008000,FFFFFF
+196-147,MTS,196,Brooklyn to Burnie,,3,,008000,FFFFFF
+196-208,MTS,196,Brooklyn to Burnie,,3,,008000,FFFFFF
+197-147,MTS,197,Wynyard to Burnie,,3,,008000,FFFFFF
+197-208,MTS,197,Wynyard to Burnie,,3,,008000,FFFFFF
+401-171,MTS,401,Sandy Bay to Hobart,,3,,008000,FFFFFF
+402-171,MTS,402,Sandy Bay to Hobart,,3,,008000,FFFFFF
+407-171,MTS,407,Blackmans Bay to Hobart,,3,,008000,FFFFFF
+408-171,MTS,408,Blackmans Bay to Hobart,,3,,008000,FFFFFF
+409-171,MTS,409,Blackmans Bay to Hobart,,3,,008000,FFFFFF
+410-171,MTS,410,Kingston to Hobart,,3,,008000,FFFFFF
+411-171,MTS,411,Howden to Hobart,,3,,008000,FFFFFF
+412-171,MTS,412,Margate to Hobart,,3,,008000,FFFFFF
+413-171,MTS,413,Snug to Hobart,,3,,008000,FFFFFF
+415-171,MTS,415,Woodbridge to Hobart,,3,,008000,FFFFFF
+416-171,MTS,416,Middleton to Hobart,,3,,008000,FFFFFF
+417-171,MTS,417,Gordon to Hobart,,3,,008000,FFFFFF
+422-171,MTS,422,Margate to Hobart,,3,,008000,FFFFFF
+426-171,MTS,426,Taroona to Hobart,,3,,008000,FFFFFF
+427-171,MTS,427,Blackmans Bay to Hobart,,3,,008000,FFFFFF
+428-171,MTS,428,Blackmans Bay to Hobart,,3,,008000,FFFFFF
+429-171,MTS,429,Kingston to Hobart,,3,,008000,FFFFFF
+446-171,MTS,446,Marlyn Road to Hobart,,3,,008000,FFFFFF
+447-171,MTS,447,Strickland Avenue to Hobart,,3,,008000,FFFFFF
+448-171,MTS,448,Fern Tree to Hobart,,3,,008000,FFFFFF
+449-171,MTS,449,Fern Tree to Hobart,,3,,008000,FFFFFF
+457-171,MTS,457,Mount Nelson to Hobart,,3,,008000,FFFFFF
+458-171,MTS,458,Mount Nelson to Hobart,,3,,008000,FFFFFF
+500-171,MTS,500,Blackmans Bay to Glenorchy,,3,,008000,FFFFFF
+501-171,MTS,501,University to Glenorchy,,3,,008000,FFFFFF
+502-171,MTS,502,Glenorchy to Hobart,,3,,008000,FFFFFF
+503-171,MTS,503,Tolosa Park to Hobart,,3,,008000,FFFFFF
+504-171,MTS,504,Jackson Street to Glenorchy,,3,,008000,FFFFFF
+510-171,MTS,510,Austins Ferry to Hobart,,3,,008000,FFFFFF
+511-171,MTS,511,Claremont to Hobart,,3,,008000,FFFFFF
+512-171,MTS,512,Cadbury Estate to Hobart,,3,,008000,FFFFFF
+513-171,MTS,513,Chigwell to Glenorchy,,3,,008000,FFFFFF
+520-171,MTS,520,Bridgewater to Hobart,,3,,008000,FFFFFF
+521-171,MTS,521,Brighton to Bridgewater,,3,,008000,FFFFFF
+522-171,MTS,522,Gagebrook to Hobart,,3,,008000,FFFFFF
+530-171,MTS,530,Bridgewater to Glenorchy,,3,,008000,FFFFFF
+540-171,MTS,540,Mount Stuart to Hobart,,3,,008000,FFFFFF
+541-171,MTS,541,Derwent Park to Hobart,,3,,008000,FFFFFF
+542-171,MTS,542,Derwent Park to Glenorchy,,3,,008000,FFFFFF
+550-171,MTS,550,Glenorchy to Hobart,,3,,008000,FFFFFF
+551-171,MTS,551,Lenah Valley to Hobart,,3,,008000,FFFFFF
+552-171,MTS,552,Lenah Valley to Hobart,,3,,008000,FFFFFF
+553-171,MTS,553,Lenah Valley to Hobart,,3,,008000,FFFFFF
+560-171,MTS,560,Glenorchy to Hobart,,3,,008000,FFFFFF
+561-171,MTS,561,Glenorchy to Hobart,,3,,008000,FFFFFF
+562-171,MTS,562,Derwent Park to Hobart,,3,,008000,FFFFFF
+601-171,MTS,601,University to Shoreline,,3,,008000,FFFFFF
+605-171,MTS,605,Tranmere to Glenorchy (limited stops),,3,,008000,FFFFFF
+606-171,MTS,606,Shoreline to Rosny Park,,3,,008000,FFFFFF
+614-171,MTS,614,Tranmere to Hobart,,3,,008000,FFFFFF
+615-171,MTS,615,Tranmere to Hobart,,3,,008000,FFFFFF
+616-171,MTS,616,Tranmere to Rosny Park,,3,,008000,FFFFFF
+624-171,MTS,624,Clarendon Vale to Hobart,,3,,008000,FFFFFF
+625-171,MTS,625,Clarendon Vale to Hobart,,3,,008000,FFFFFF
+634-171,MTS,634,Roches Beach to Hobart,,3,,008000,FFFFFF
+635-171,MTS,635,Seven Mile Beach to Hobart,,3,,008000,FFFFFF
+646-171,MTS,646,Opossum Bay to Rosny Park,,3,,008000,FFFFFF
+654-171,MTS,654,Mornington to Rosny Park,,3,,008000,FFFFFF
+655-171,MTS,655,Mornington to Hobart,,3,,008000,FFFFFF
+664-171,MTS,664,Seven Mile Beach to Hobart,,3,,008000,FFFFFF
+665-171,MTS,665,Seven Mile Beach to Rosny Park,,3,,008000,FFFFFF
+676-171,MTS,676,Rosny Park to Hobart,,3,,008000,FFFFFF
+684-171,MTS,684,Geilston Bay to Rosny Park,,3,,008000,FFFFFF
+685-171,MTS,685,Geilston Bay to Hobart,,3,,008000,FFFFFF
+694-171,MTS,694,Glenorchy to Rosny Park,,3,,008000,FFFFFF
+695-171,MTS,695,Risdon Vale to Hobart,,3,,008000,FFFFFF
+696-171,MTS,696,Bridgewater to Rosny Park,,3,,008000,FFFFFF
+700-186,KIN,700,Launceston to Hobart (limited stops),,3,,008000,000000
+702-186,KIN,702,Launceston to Hobart,,3,,00FFFF,000000
+705-186,KIN,705,Devonport to Launceston,,3,,0080FF,000000
+708-204,KIN,708,NW Express Burnie to Devonport,,3,,0080FF,000000
+709-187,TL,709,Hobart College to Kingston,,3,,FFFF00,000000
+710-187,TL,710,Hobart to Huonville,,3,,FFFF00,000000
+711-187,TL,711,Kingston to Ranelagh,,3,,FFFF00,000000
+712-187,TL,712,Ranelagh to Hobart,,3,,FFFF00,000000
+714-187,TL,714,Cygnet to Hobart,,3,,FFFF00,000000
+715-187,TL,715,Cygnet to Kingston,,3,,FFFF00,000000
+716-187,TL,716,Geeveston to Hobart,,3,,FFFF00,000000
+718-187,TL,718,Dover to Hobart,,3,,FFFF00,000000
+719-187,TL,719,Dover to Hobart,,3,,FFFF00,000000
+720-192,KIN,720,New Norfolk to Glenorchy,,3,,FFFFFF,000000
+722-192,KIN,722,New Norfolk to Hobart,,3,,80FFFF,000000
+725-187,TL,725,Richmond to Hobart,,3,,FFFF00,000000
+726-187,TL,726,Campania to Hobart,,3,,FFFF00,000000
+731-192,KIN,731,Sorell to Hobart,,3,,FFFFFF,000000
+732-192,KIN,732,Carlton to Hobart,,3,,FFFFFF,000000
+734-187,TL,734,Nubeena to Hobart,,3,,FFFF00,000000
+736-187,TL,736,Swansea to Hobart,,3,,FFFF00,000000
+737-187,TL,737,Bicheno to Hobart,,3,,FFFF00,000000
+740-199,CC,740,St Helens to Launceston,,3,,0000FF,FFFFFF
+742-199,CC,742,St Marys to Bicheno,,3,,0080FF,000000
+743-199,CC,743,Coles Bay to Bicheno,,3,,0000FF,FFFFFF
+744-199,CC,744,Coles Bay to St Helens,,3,,0000FF,FFFFFF
+745-199,CC,745,Coles Bay to St Marys,,3,,FF00FF,000000
+746-199,CC,746,Bicheno to St Helens,,3,,FF8000,000000
+747-203,TL,747,West Coast to Burnie,,3,,0000FF,FFFFFF
+748-203,TL,748,Strahan to Quenstown,,3,,FFFF00,000000
+762-186,KIN,762,Mole Creek to Launceston,,3,,0080FF,000000
+768-204,KIN,768,Smithton to Burnie,,3,,00FF40,000000
+770-186,KIN,770,George Town to Launceston,,3,,80FF80,000000
+771-186,KIN,771,Low Head to Launceston,,3,,FFFFFF,000000
+772-186,KIN,772,Low Head to Launceston,,3,,FFFFFF,000000
+775-186,KIN,775,Scottsdale to Launceston,,3,,FF8040,000000
+776-186,KIN,776,Bridport to Launceston,,3,,FFFFFF,000000
+777-186,KIN,777,Derby to Launceston,,3,,FFFFFF,000000
+780-183,MC,780,Legana to Launceston,,3,,00FF00,000000
+780-207,MC,780,Legana to Launceston,,3,,00FF00,000000
+781-183,MC,781,North Riverside to Launceston,,3,,00FF00,000000
+781-207,MC,781,North Riverside to Launceston,,3,,00FF00,000000
+782-183,MC,782,Legana to Launceston,,3,,00FF00,000000
+782-207,MC,782,Legana to Launceston,,3,,00FF00,000000
+784-183,MC,784,Rowella to Launceston,,3,,00FF00,000000
+784-207,MC,784,Rowella to Launceston,,3,,00FF00,000000
+785-183,MC,785,Exeter to Launceston,,3,,00FF00,000000
+785-207,MC,785,Exeter to Launceston,,3,,00FF00,000000
+787-183,MC,787,Beaconsfield to Launceston,,3,,00FF00,000000
+787-207,MC,787,Beaconsfield to Launceston,,3,,00FF00,000000
+788-183,MC,788,Beauty Point to Launceston,,3,,00FF80,000000
+788-207,MC,788,Beauty Point to Launceston,,3,,00FF80,000000
+792-176,TL,792,Evandale to Launceston,,3,,FFFFFF,000000
+792-205,TL,792,Evandale to Launceston,,3,,FFFFFF,000000
+794-176,TL,794,Longford to Launceston,,3,,FFFFFF,000000
+794-205,TL,794,Longford to Launceston,,3,,FFFFFF,000000
+795-205,TL,795,Cressy to Launceston,,3,,FFFFFF,000000
+796-176,TL,796,Cressy to Launceston,,3,,FFFFFF,000000
+796-205,TL,796,Cressy to Launceston,,3,,FFFFFF,000000
+F2-201,DFS,F2,Derwent Ferry,,4,,FFFFFF,000000
+X01-171,MTS,X01,Huntingfield to Hobart express,,3,,008000,FFFFFF
+X02-171,MTS,X02,Glenorchy to Hobart express,,3,,008000,FFFFFF
+X07-171,MTS,X07,Blackmans Bay to Hobart express,,3,,008000,FFFFFF
+X08-171,MTS,X08,Huntingfield to Hobart express,,3,,008000,FFFFFF
+X10-171,MTS,X10,Granton to Hobart express,,3,,008000,FFFFFF
+X11-171,MTS,X11,Claremont to Hobart express,,3,,008000,FFFFFF
+X13-171,MTS,X13,Snug to Hobart express,,3,,008000,FFFFFF
+X15-171,MTS,X15,Tranmere to Hobart express,,3,,008000,FFFFFF
+X16-171,MTS,X16,Tranmere to Hobart express,,3,,008000,FFFFFF
+X20-171,MTS,X20,Bridgewater to Hobart express,,3,,008000,FFFFFF
+X21-171,MTS,X21,Brighton to Hobart express,,3,,008000,FFFFFF
+X22-192,KIN,X22,New Norfolk to Hobart express,,3,,FFFFFF,000000
+X23-192,KIN,X23,New Norfolk to Hobart super express,,3,,FFFFFF,000000
+X30-171,MTS,X30,Bridgewater to Hobart express,,3,,008000,FFFFFF
+X31-192,KIN,X31,Sorell to Hobart express,,3,,FFFFFF,000000
+X32-192,KIN,X32,Carlton to Hobart express,,3,,FFFFFF,000000
+X33-192,KIN,X33,Hobart to Sorell express,,3,,FFFFFF,000000
+X34-171,MTS,X34,Roches Beach to Hobart express,,3,,008000,FFFFFF
+X42-171,MTS,X42,Glenorchy to Hobart express,,3,,008000,FFFFFF
+X44-171,MTS,X44,Opossum Bay to Hobart express,,3,,008000,FFFFFF
+X50-171,MTS,X50,Glenorchy to Hobart express,,3,,008000,FFFFFF
+X58-171,MTS,X58,Mount Nelson to Hobart express,,3,,008000,FFFFFF
+X64-171,MTS,X64,Seven Mile Beach to Hobart express,,3,,008000,FFFFFF
+X65-171,MTS,X65,Seven Mile Beach to Hobart express,,3,,008000,FFFFFF
+X710-187,TL,X710,Huonville to Hobart express,,3,,FFFF00,000000

@@ -1,0 +1,2 @@
+"feed_publisher_name","feed_publisher_url","feed_lang","feed_start_date","feed_end_date","feed_version"
+"Public Transport Tasmania","https://www.transport.tas.gov.au/public_transport","en","20260603","20260831","20"
